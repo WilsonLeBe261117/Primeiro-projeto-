@@ -1,5 +1,6 @@
 
 git status - verificar se tem algum novo 
 versões
-controle de versões - git add nome de versões "nome do meu código"´
-para adicionar  mais de um arquivo- git add.
+controle de versões - git add nome de versões "nome do meu código"
+para puxar para nuvem - git push
+quando um arquivo for modificado - git add. - 
