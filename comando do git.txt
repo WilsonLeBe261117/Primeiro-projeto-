@@ -11,3 +11,7 @@ adicionar um arquivo - git add  " nome do arquivo modificado"
 adicionar mais de arquivo - git add .
 
 treinamento ....
+
+git push - para adicionar ....a nuvem ...
+
+git reflog 
