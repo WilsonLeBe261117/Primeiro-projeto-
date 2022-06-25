@@ -3,4 +3,11 @@ git status - verificar se tem algum novo
 versões
 controle de versões - git add nome de versões "nome do meu código"
 para puxar para nuvem - git push
-quando um arquivo for modificado - git add. - 
+quando um arquivo for modificado - git add .
+atualização - git status
+
+adicionar um arquivo - git add  " nome do arquivo modificado"
+
+adicionar mais de arquivo - git add .
+
+treinamento ....
